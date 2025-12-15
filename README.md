@@ -329,7 +329,7 @@ SOFTWARE.
 ## 📞 Contact & Support
 
 - **Issues**: Report bugs or request features via GitHub Issues
-- **Email**: your.email@example.com
+- **Email**: ameedaab11@gmail.com
 - **Documentation**: Check code comments for detailed explanations
 
 ## 🙏 Acknowledgments
